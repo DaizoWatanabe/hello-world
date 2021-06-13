@@ -10,9 +10,9 @@ PHP /
 HTML5 / 
 CSS3 / 
 Bootstrap4-5 / 
-JavaScript - ES6 / 
-And now learning:   
-Node.js / 
+JavaScript - ES6 <br>
+And now learning:   <br>
+Node.js <br> 
 MongoDB
 
 Soon to start:<br>
