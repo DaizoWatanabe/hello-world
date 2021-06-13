@@ -15,7 +15,7 @@ And now learning:
 Node.js / 
 MongoDB
 
-Soon to start:
+Soon to start:<br>
 Angular <br>
 React<br>
 Mobile development<br>
