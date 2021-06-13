@@ -16,9 +16,9 @@ Node.js /
 MongoDB
 
 Soon to start:
-Angular
-React
-Mobile development
+Angular <br>
+React<br>
+Mobile development<br>
 
 
 "The future is unlimited"
